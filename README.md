@@ -1,2 +1,3 @@
 # movie-app
-created a movie app to check ratings and description of movies using a third party API using HTML,CSS and JavaScript.
+Created a movie app to check ratings and description of movies using HTML,CSS and JavaScript.
+It uses third party API to fetch data from its database.
